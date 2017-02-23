@@ -1,3 +1,7 @@
 .app {
     color: #8823fd;
 }
+.clicked{
+    color: #44df9e;
+    font-size: 26px;
+}
